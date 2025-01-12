@@ -2,6 +2,7 @@
 
 To run the solution run this command ```dotnet run --launch-profile https``` inside **_./INTUS_Homework_Task.Server_**.
 The file that program reads from is located inside **_./INTUS_Homework_Task.Server_**. Named _RectangleDimensions.json_.
+Frontend solution runs on port 7273 (https://localhost:7273/)
 
 The project boilerplate was created by selecting React App on Visual Studio.
 ### How to use
