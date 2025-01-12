@@ -201,7 +201,6 @@ function ResizableRectangle(props) {
       async function validateOnSave(){
         if (rectangle) {
             try {
-                // setIsValidating(true);
                 const response = await props.saveRectangle(rectangle);
                 setValidationResponse(response);
             } catch (error) {
