@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "INTUS_Homework_Task.Server", "INTUS_Homework_Task.Server\INTUS_Homework_Task.Server.csproj", "{7A17BE0D-6981-406E-8096-EE3844461603}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "intus_homework_task.client", "intus_homework_task.client\intus_homework_task.client.esproj", "{3DCB4B54-446F-4FA8-965C-C1AB22D0BC63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A17BE0D-6981-406E-8096-EE3844461603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A17BE0D-6981-406E-8096-EE3844461603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A17BE0D-6981-406E-8096-EE3844461603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A17BE0D-6981-406E-8096-EE3844461603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCB4B54-446F-4FA8-965C-C1AB22D0BC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCB4B54-446F-4FA8-965C-C1AB22D0BC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCB4B54-446F-4FA8-965C-C1AB22D0BC63}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3DCB4B54-446F-4FA8-965C-C1AB22D0BC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCB4B54-446F-4FA8-965C-C1AB22D0BC63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCB4B54-446F-4FA8-965C-C1AB22D0BC63}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7DF6148-A5F0-42A9-A1BB-34EB8CC86C28}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/intus_homework_task.client/obj/Debug
+/INTUS_Homework_Task.Server/bin/Debug/net8.0
+/INTUS_Homework_Task.Server/obj
