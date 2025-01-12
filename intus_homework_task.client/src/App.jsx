@@ -23,7 +23,6 @@ function App() {
   );
 
   async function getRectangleData() {
-    // const response = await fetch("https://localhost:7272/Shapes");
     const response = await fetch("Shapes");
     const data = await response.json();
     setRectangle(JSON.parse(data.data));
@@ -39,7 +38,6 @@ function App() {
 
     try {
 
-        // const response = await fetch("https://localhost:7272/Shapes", {
         const response = await fetch("Shapes", {
             method: "POST",
             headers: {
