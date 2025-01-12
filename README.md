@@ -1,6 +1,7 @@
 # This is a solution for INTUS Windows homework task.
 
 To run the solution run this command ```dotnet run --launch-profile https``` inside ./INTUS_Homework_Task.Server.
+The file that program reads from is located inside ./INTUS_Homework_Task.Server. Named 'RectangleDimensions.json'.
 
 The project boilerplate was created by selecting React App on Visual Studio.
 ### How to use
